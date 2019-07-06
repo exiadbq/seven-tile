@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/seven-tile/static/css/main.8ef63b32.chunk.css",
+    "main.js": "/seven-tile/static/js/main.8c4590ca.chunk.js",
+    "main.js.map": "/seven-tile/static/js/main.8c4590ca.chunk.js.map",
+    "runtime~main.js": "/seven-tile/static/js/runtime~main.08c98c03.js",
+    "runtime~main.js.map": "/seven-tile/static/js/runtime~main.08c98c03.js.map",
+    "static/js/2.cfb64bb0.chunk.js": "/seven-tile/static/js/2.cfb64bb0.chunk.js",
+    "static/js/2.cfb64bb0.chunk.js.map": "/seven-tile/static/js/2.cfb64bb0.chunk.js.map",
+    "index.html": "/seven-tile/index.html",
+    "precache-manifest.1c4edc2e52cb0ccd17fd3370cceafb58.js": "/seven-tile/precache-manifest.1c4edc2e52cb0ccd17fd3370cceafb58.js",
+    "service-worker.js": "/seven-tile/service-worker.js",
+    "static/css/main.8ef63b32.chunk.css.map": "/seven-tile/static/css/main.8ef63b32.chunk.css.map",
+    "static/media/logo.png": "/seven-tile/static/media/logo.2a3f011a.png",
+    "static/media/tile.jpg": "/seven-tile/static/media/tile.25b4e634.jpg"
+  }
+}
