@@ -1,6 +1,30 @@
 # Seven Home and Away
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Assumptions
+Given styled components to use. 
+For a styling task to have relative and absolute layout, 
+mostly related to css in react.
+
+Allocated a couple of hours. Used CRA to boot strap project template.
+
+Picked the approach with em as the unit for responsiveness in terms of layout. 
+
+flex box for browser compatibility and no complex layout. 
+
+Given one image, may generate a different sized for different sized screen with break points.
+
+May make the component more reusable, if there are more instance of Tile is needed.
+however don't want to have premature optimization because only make it looks like the image is required. 
+
+Only added one unit test to verify it works, if the projects grow out, might add more.
+
+## Comments
+Styled components is really good for DX, also add style lint integration.
+
+However, it uses runtime to generate css(there is a different one claims 0 runtime but still new), need to think if the website really grown out to be very complex in terms of performance.
+
+
 
 ## Available Scripts
 
