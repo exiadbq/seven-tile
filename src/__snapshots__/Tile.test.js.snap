@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it works 1`] = `
+.c0 {
+  position: relative;
+  height: 100%;
+  overflow: hidden;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 40em;
+  margin: auto;
+}
+
+.c0 .overlay {
+  position: absolute;
+  height: 30%;
+  bottom: 0;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+  width: 100%;
+  background: rgba(0,0,0,0.5);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c0 .overlay img {
+  background: transparent;
+  height: 100%;
+  padding: 0.5em;
+}
+
+.c1 {
+  width: 100%;
+  position: relative;
+}
+
+.c2 {
+  color: white;
+}
+
+<div
+  className="c0"
+>
+  <img
+    alt="test"
+    className="c1"
+    src="tile.jpg"
+  />
+  <div
+    className="overlay"
+  >
+    <img
+      alt="seven"
+      src="logo.png"
+    />
+    <h1
+      className="c2"
+      color="white"
+    >
+      test
+    </h1>
+  </div>
+</div>
+`;
